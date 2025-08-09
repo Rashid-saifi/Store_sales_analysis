@@ -1,4 +1,4 @@
-# Vrindra Store_sales_analysis
+# Vrinda Store_sales_analysis
 Vrinda Store Sales Analysis – An interactive Excel-based project designed to track, analyze, and visualize sales performance for Vindra. It includes dynamic dashboards, pivot tables, and charts to identify sales trends, top-performing products, and regional performance, enabling data-driven decision-making.
 
 Identify sales trends and seasonal patterns.
